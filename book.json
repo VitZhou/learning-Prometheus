@@ -37,15 +37,15 @@
   ],
   "pluginsConfig": {
     "donate": {
-      "wechat": "https://muf.gitbooks.io/java/content/img/wechat.png",
-      "alipay": "https://muf.gitbooks.io/java/content/img/alipay.png",
+      "wechat": "https://henryz.gitbooks.io/java-test-learning/content/img/wechat.png",
+      "alipay": "https://henryz.gitbooks.io/java-test-learning/content/img/alipay.png",
       "title": "",
       "button": "赏",
       "alipayText": "支付宝打赏",
       "wechatText": "微信打赏"
     },
 	"edit-link": {
-        "base": "https://github.com/henryZ/leaning-java-unit-test/edit/master",
+        "base": "https://github.com/henryZ/learning-Prometheus/edit/master",
         "label": "Edit"
     },
     "tbfed-pagefooter": {
